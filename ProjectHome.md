@@ -1,0 +1,1 @@
+eBukMoKo is an online Bus Reservation System which allows bus companies to accept reservations, manage trips, track bus location, time arrived and departed, delays, and creates a report which contains statistics such as bus engine failure frequency, bus demand, etc.
